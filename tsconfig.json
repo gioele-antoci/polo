@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "watch": true
+    },
+    "files": [
+        "src/**/*.ts",
+        "typings/**/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
